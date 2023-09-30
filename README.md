@@ -30,8 +30,9 @@ Added a shuffle button which randomly selects card. Animation was added
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://i.imgur.com/Xl3gGu9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+# Gif
+![](https://github.com/LUNIC21/CodePathWebDevIntermediateProject_2/blob/main/Project_2_gif.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with screentogif
 <!-- Recommended tools:
